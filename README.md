@@ -5,6 +5,9 @@
 <p align="left"> 
   Hello, my name is Marcos Emanuel I am <strong>Junior Developer</strong>.<br>
 </p>
+<p align="left"> 
+  I am a <strong>Computer Technician</strong> by the Federal Institute of Santa Catarina.<br>
+</p>
 
 - 🌱 I’m currently learning JavaScript and TypeScript
 - 📫 How to reach me: 
