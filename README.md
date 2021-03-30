@@ -1,6 +1,6 @@
 ### bigMARAC 🕵🏿‍♂️
 
-<img src="./background.png" min-width="250px" max-width="250px" width="250px" align="right">
+<img src="./background.png" min-width="250px" max-width="250px" width="250px" align="right" style="margin-top: -13px">
 
 <p align="left"> 
   Hello, my name is Marcos Emanuel I am <strong>Junior Developer</strong>.<br>
