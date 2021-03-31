@@ -29,5 +29,7 @@
 		"source.fixAll.eslint": true
 	},
 	"eslint.alwaysShowStatus": true,
-	"typescript.updateImportsOnFileMove.enabled": "always"
+	"typescript.updateImportsOnFileMove.enabled": "always",
+
+	"explorer.compactFolders": false
 }
