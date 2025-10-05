@@ -3,16 +3,16 @@
 <img src="./background.png" min-width="250px" max-width="250px" width="250px" align="right">
 
 <p align="left"> 
-  Hello, my name is Marcos Emanuel I am <strong>Junior Developer</strong>.<br>
+  Hello, my name is Marcos Emanuel I am <strong>Fullstack Developer</strong>.<br>
 </p>
 <p align="left"> 
-  I'm <strong>21</strong> years old and i've been a programmer for <strong>3</strong> years.<br>
+  I'm <strong>23</strong> years old and i've been a programmer for <strong>5</strong> years.<br>
 </p>
 <p align="left"> 
   I'm a <strong>Computer Technician</strong> by the Federal Institute of Santa Catarina.<br>
 </p>
 
-- 🌱 I’m currently learning JavaScript and TypeScript
+- 🌱 I’m currently learning Vue 3 and TypeScript
 - 📫 How to reach me: 
 
 <p align="left">
